@@ -2,7 +2,6 @@ package org.usfirst.frc.team3238.robot;
 
 
 /**
- *
  * @author Anders Sjoboen
  */
 public class Autonomous
